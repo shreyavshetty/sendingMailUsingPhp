@@ -25,4 +25,3 @@ require 'class.smtp.php';
 		echo "Message has been sent";
 	}
 	?>
-
